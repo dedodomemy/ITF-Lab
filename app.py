@@ -1,3 +1,3 @@
 # Comments
-message = "Hello,ITF-Lab 2018!!!"
+message="Hello,IT-Lab2018!!!"
 print(message)
